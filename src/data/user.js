@@ -3,7 +3,7 @@ const INFO = {
 		title: "Reactfolio by Marosata F.",
 		name: "Marosata F.",
 		email: "marosataf@gmail.com",
-		logo: "/fano.jpg",
+		logo: "/portfolio-marosata/fano.jpg",
 	},
 
 	socials: {
@@ -65,7 +65,7 @@ const INFO = {
 				"Développement d'une application pour la modélisation et la gestion des méthodes de travail à la Direction Générale des Douanes. Ce projet a impliqué l'intégration de systèmes d'information pour un suivi précis des opérations et l'optimisation des flux de travail.",
 			logos: [
 				"https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
-				"Oracle-Logo.png",
+				"/portfolio-marosata/Oracle-Logo.png",
 			],
 			linkText: "Le projet est classé confidentiel",
 			link: "",
@@ -78,7 +78,7 @@ const INFO = {
 				"Ce projet consistait à développer une application de gestion pour des événements d'entreprise, utilisant **Laravel** pour le backend et une interface dynamique pour gérer les utilisateurs et les événements. Cette application a permis de simplifier le suivi des activités et de renforcer l'efficacité des processus événementiels.",
 			logos: [
 				"https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png",
-				"Laravel.png",
+				"/portfolio-marosata/Laravel.png",
 			],
 			linkText: "Voir le projet",
 			link: "https://github.com/",
@@ -91,7 +91,7 @@ const INFO = {
 				"Développement d'une application web de gestion de stock permettant d'automatiser les processus de suivi et de mise à jour des inventaires. Cette application a été conçue avec **Laravel** pour le backend et **PostgreSQL** comme base de données pour garantir la sécurité et la performance des transactions.",
 			logos: [
 				"https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png",
-				"Postgres.png",
+				"/portfolio-marosata/Postgres.png",
 			],
 			linkText: "Voir le projet",
 			link: "https://github.com/votre-projet-stock",
@@ -104,8 +104,8 @@ const INFO = {
 				"Création d'un site de vente aux enchères en ligne, avec une interface utilisateur développée en **Ionic** et le backend en **Java Spring Boot**. Ce projet a permis de créer une plateforme efficace et intuitive pour les enchères en ligne.",
 			logos: [
 				"https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
-				"Ionic.png",
-				"Spring.svg",
+				"/portfolio-marosata/Ionic.png",
+				"/portfolio-marosata/Spring.svg",
 			],
 			linkText: "Voir le projet",
 			link: "https://github.com/votre-projet-encheres",

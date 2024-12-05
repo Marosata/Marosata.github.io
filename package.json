@@ -1,12 +1,12 @@
 {
 	"name": "reactfolio",
 	"version": "1.1.0",
-	"homepage": "https://Marosata.github.io",
+	"homepage": "https://Marosata.github.io/portfolio-marosata",
 	"description": "Personal portfolio template built using Reactjs",
 	"author": {
 		"name": "Fanomezantsoa Marosata A.",
 		"email": "marosataf@gmail.com",
-		"url": "https://Marosata.github.io"
+		"url": "https://Marosata.github.io/portfolio-marosata"
 	},
 	"license": "MIT",
 	"private": true,
