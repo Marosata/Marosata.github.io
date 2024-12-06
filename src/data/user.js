@@ -81,7 +81,7 @@ const INFO = {
 				"/portfolio-marosata/Laravel.png",
 			],
 			linkText: "Voir le projet",
-			link: "https://github.com/",
+			link: "https://gitlab.com/SEBXR/front-office-ventes-aux-encheres",
 		},
 
 		{
@@ -108,7 +108,10 @@ const INFO = {
 				"/portfolio-marosata/Spring.svg",
 			],
 			linkText: "Voir le projet",
-			link: "https://github.com/votre-projet-encheres",
+			link: [
+				"https://github.com/SoniaAndrianantenaina/Spring-Front-Office",
+				"https://gitlab.com/SEBXR/front-office-ventes-aux-encheres"
+			],
 		},
 
 		{
